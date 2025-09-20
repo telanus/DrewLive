@@ -3,559 +3,559 @@
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o4.sundaytueday.online/usa-usanetwork.m3u8?auth_key=1758325092-c707756894a01a664b7bfffcf6ed3e6c-00000000000000000000000000000000-b65417e1c4329898beb6f132ea14d57b&__PROXY_IDENTIFIER__=true
+https://o4.sundaytueday.online/usa-usanetwork.m3u8?auth_key=1758330378-1e47255144a09261ea6f36698bbd20ac-00000000000000000000000000000000-027141ed066b4f921819056242648aef
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/CBS_Sports_Network_2016.png" group-title="FSTV",Ori2Usacbssport
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o4.sundaytueday.online/usa-cbssport.m3u8?auth_key=1758325094-c707756894a01a664b7bfffcf6ed3e6c-00000000000000000000000000000000-1e770c9b3711e1fcaae00cc581fa1789
+https://o4.sundaytueday.online/usa-cbssport.m3u8?auth_key=1758330381-1e47255144a09261ea6f36698bbd20ac-00000000000000000000000000000000-795c7a88006ec727aac91a1ab1fb3a91
 #EXTINF:-1 tvg-id="CBS.(KCBS).Los.Angeles,.CA.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CBS.png" group-title="FSTV",CBS Los Angeles
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o4.sundaytueday.online/us-cbslosangeles.m3u8?auth_key=1758325096-c707756894a01a664b7bfffcf6ed3e6c-00000000000000000000000000000000-1b5afa859afad966c088d0f5f61b9d31
+https://o4.sundaytueday.online/us-cbslosangeles.m3u8?auth_key=1758330382-1e47255144a09261ea6f36698bbd20ac-00000000000000000000000000000000-585ece7b950b63d9078447a75f7ce908
 #EXTINF:-1 tvg-id="plex.tv.CBS.Sports.Golazo.Network.plex" tvg-logo="https://yt3.googleusercontent.com/DMOVkUIv9Su7yHsGmjl7gS0iU9qjvz13BSZZfQTVMCAE7mUHbWS3S0-DbFg1HUBt9pD9yjxT=s900-c-k-c0x00ffffff-no-rj" group-title="FSTV",CBS Sports Golazo!
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o3.sundaytueday.online/pre22.m3u8?auth_key=1758325098-c707756894a01a664b7bfffcf6ed3e6c-00000000000000000000000000000000-8922ad82b1b03cf7fe8340bb78c28f73
+https://o3.sundaytueday.online/pre22.m3u8?auth_key=1758330384-1e47255144a09261ea6f36698bbd20ac-00000000000000000000000000000000-bb670860d44ba7e286f61b2f09f3d627
 #EXTINF:-1 tvg-id="The.NFL.Network.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-network-hz-us.png?raw=true" group-title="FSTV",NFL Network
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o2.sundaytueday.online/us-nfl.m3u8?auth_key=1758325100-c707756894a01a664b7bfffcf6ed3e6c-00000000000000000000000000000000-b68ebb737bc42e182f20e37e8ef787f7
+https://o2.sundaytueday.online/us-nfl.m3u8?auth_key=1758330386-1e47255144a09261ea6f36698bbd20ac-00000000000000000000000000000000-0d5853208d6186458e1424046ce94f60
 #EXTINF:-1 tvg-id="NFL.RedZone.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-red-zone-hz-us.png?raw=true" group-title="FSTV",NFL RedZone
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o2.sundaytueday.online/us-redzone.m3u8?auth_key=1758325101-c707756894a01a664b7bfffcf6ed3e6c-00000000000000000000000000000000-337d526c305c642602bf32bf864f7d92
+https://o2.sundaytueday.online/us-redzone.m3u8?auth_key=1758330387-1e47255144a09261ea6f36698bbd20ac-00000000000000000000000000000000-deadc6433e178779b61fc79da05c58b7
 #EXTINF:-1 tvg-id="ESPN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="FSTV",ESPN
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o2.sundaytueday.online/us-espn.m3u8?auth_key=1758325103-c707756894a01a664b7bfffcf6ed3e6c-00000000000000000000000000000000-3ca4a1e5d4e8015a70676bea0544a4dc
+https://o2.sundaytueday.online/us-espn.m3u8?auth_key=1758330389-1e47255144a09261ea6f36698bbd20ac-00000000000000000000000000000000-483737fb8c5ad2bcb403fbdba39bcbf5
 #EXTINF:-1 tvg-id="ESPN2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png" group-title="FSTV",ESPN2
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o2.sundaytueday.online/us-espn2.m3u8?auth_key=1758325105-c707756894a01a664b7bfffcf6ed3e6c-00000000000000000000000000000000-81f645038f52b4d8d54ed48365caf608
+https://o2.sundaytueday.online/us-espn2.m3u8?auth_key=1758330390-1e47255144a09261ea6f36698bbd20ac-00000000000000000000000000000000-f38a560d9f9bd992466b8513f63b73a8
 #EXTINF:-1 tvg-id="ESPN.U.us" tvg-logo="https://cdn.freebiesupply.com/logos/thumbs/2x/espn-u-logo.png" group-title="FSTV",ESPNU
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o2.sundaytueday.online/us-uespn.m3u8?auth_key=1758325106-c707756894a01a664b7bfffcf6ed3e6c-00000000000000000000000000000000-76bd5d5164c13659f79b3a7f7bf673dd
+https://o2.sundaytueday.online/us-uespn.m3u8?auth_key=1758330392-1e47255144a09261ea6f36698bbd20ac-00000000000000000000000000000000-434cf72a6b5659a237d0084307e8c130
 #EXTINF:-1 tvg-id="ESPN.News.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/2560px-ESPNews.svg.png" group-title="FSTV",ESPNews
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o2.sundaytueday.online/us-espnnews.m3u8?auth_key=1758325108-c707756894a01a664b7bfffcf6ed3e6c-00000000000000000000000000000000-3f7cfab4f963c7d9033d9db39427b981
+https://o2.sundaytueday.online/us-espnnews.m3u8?auth_key=1758330393-1e47255144a09261ea6f36698bbd20ac-00000000000000000000000000000000-024e8d5762325fab4ea1618e0563953b
 #EXTINF:-1 tvg-id="SEC.Network.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SEC_Network_logo.svg/1200px-SEC_Network_logo.svg.png" group-title="FSTV",SEC Network
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o4.sundaytueday.online/us-secnetwork.m3u8?auth_key=1758325110-c707756894a01a664b7bfffcf6ed3e6c-00000000000000000000000000000000-c258dd547362ea973c7a975c4831f11d
+https://o4.sundaytueday.online/us-secnetwork.m3u8?auth_key=1758330395-1e47255144a09261ea6f36698bbd20ac-00000000000000000000000000000000-3cb251ce5e3ea10f7d219a88d35ddfda
 #EXTINF:-1 tvg-id="ESPN.Deportes.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/1280px-ESPN_Deportes.svg.png" group-title="FSTV",ESPN Deportes
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o2.sundaytueday.online/us-espndeportes.m3u8?auth_key=1758325112-c707756894a01a664b7bfffcf6ed3e6c-00000000000000000000000000000000-d418ab74a8c41fbb885ecd8cddc03e0a
+https://o2.sundaytueday.online/us-espndeportes.m3u8?auth_key=1758330397-1e47255144a09261ea6f36698bbd20ac-00000000000000000000000000000000-d87fb5dc667111a3c653ddbc4c71cca0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png" group-title="FSTV",Ori2Usafs1
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o2.sundaytueday.online/usa-fs1.m3u8?auth_key=1758325113-c707756894a01a664b7bfffcf6ed3e6c-00000000000000000000000000000000-183a745f31b479ff1e7e841d96d6a2c5
+https://o2.sundaytueday.online/usa-fs1.m3u8?auth_key=1758330398-1e47255144a09261ea6f36698bbd20ac-00000000000000000000000000000000-9f4254fd666b66e61ef50498f006c8c0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/2560px-FS2_logo_2015.svg.png" group-title="FSTV",Ori2Usafs2
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o2.sundaytueday.online/usa-fs2.m3u8?auth_key=1758325115-c707756894a01a664b7bfffcf6ed3e6c-00000000000000000000000000000000-dcd346b5e02b8e6f112e6637bda9da2c
+https://o2.sundaytueday.online/usa-fs2.m3u8?auth_key=1758330400-1e47255144a09261ea6f36698bbd20ac-00000000000000000000000000000000-7d3de630e0845ec36059ef40c11c6266
 #EXTINF:-1 tvg-id="plex.tv.NBC.News.NOW.plex" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-news-flat-us.png?raw=true" group-title="FSTV",NBC News
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o2.sundaytueday.online/uk-viaplayxtra.m3u8?auth_key=1758325117-c707756894a01a664b7bfffcf6ed3e6c-00000000000000000000000000000000-3c7117d3036c0dc3bd2fec61c38e6b36
+https://o2.sundaytueday.online/uk-viaplayxtra.m3u8?auth_key=1758330401-1e47255144a09261ea6f36698bbd20ac-00000000000000000000000000000000-a64637881e3ef4505ba72d2605e1cfb4
 #EXTINF:-1 tvg-id="Golf.Channel.USA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Golf_Channel_Logo.png" group-title="FSTV",Golf Channel
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o2.sundaytueday.online/us-golf.m3u8?auth_key=1758325118-c707756894a01a664b7bfffcf6ed3e6c-00000000000000000000000000000000-3879015cfb6f01ff2bb06e8fffd25038
+https://o2.sundaytueday.online/us-golf.m3u8?auth_key=1758330403-1e47255144a09261ea6f36698bbd20ac-00000000000000000000000000000000-9a949a8da8c1228c37481f5cab761f50
 #EXTINF:-1 tvg-id="The.Tennis.Channel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1200px-Tennis_Channel_logo.svg.png" group-title="FSTV",Tennis Channel
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o2.sundaytueday.online/us-tennistv.m3u8?auth_key=1758325120-c707756894a01a664b7bfffcf6ed3e6c-00000000000000000000000000000000-661cfa7fba366165723691c1b666c73b
+https://o2.sundaytueday.online/us-tennistv.m3u8?auth_key=1758330404-1e47255144a09261ea6f36698bbd20ac-00000000000000000000000000000000-b55b7c2a77176f75aa3724734880d740
 #EXTINF:-1 tvg-id="The.Tennis.Channel.us" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/7382296F-97F6-4450-B77B-8FE331FC04F6/3-1x1.png" group-title="FSTV",Tennis Channel 2
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o4.sundaytueday.online/us-tennistv2.m3u8?auth_key=1758325122-c707756894a01a664b7bfffcf6ed3e6c-00000000000000000000000000000000-ab0295eeed54ac2996e053a9cfbedd7b
+https://o4.sundaytueday.online/us-tennistv2.m3u8?auth_key=1758330406-1e47255144a09261ea6f36698bbd20ac-00000000000000000000000000000000-f5e882b00dbe69c673c7c91b3cf827ff
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/UNIVERSO_LOGO_color_black.png/1024px-UNIVERSO_LOGO_color_black.png" group-title="FSTV",Ori2Usaunirso
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o4.sundaytueday.online/us-universo.m3u8?auth_key=1758325123-c707756894a01a664b7bfffcf6ed3e6c-00000000000000000000000000000000-fd56de1efec3d5e9073623e1286f3a15
+https://o4.sundaytueday.online/us-universo.m3u8?auth_key=1758330408-1e47255144a09261ea6f36698bbd20ac-00000000000000000000000000000000-e379969257e2448319c289989826ecef
 #EXTINF:-1 tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/1200px-NBC_logo.svg.png" group-title="FSTV",NBC
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o2.sundaytueday.online/us-nbc.m3u8?auth_key=1758325125-c707756894a01a664b7bfffcf6ed3e6c-00000000000000000000000000000000-59b7ece64e6c9175e7c57651a1eaf815
+https://o2.sundaytueday.online/us-nbc.m3u8?auth_key=1758330409-1e47255144a09261ea6f36698bbd20ac-00000000000000000000000000000000-04312d1191e57a75b93e4f0242513f67
 #EXTINF:-1 tvg-id="MSNBC.USA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/MSNBC_2015-2021_logo.svg/2560px-MSNBC_2015-2021_logo.svg.png" group-title="FSTV",MSNBC
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o2.sundaytueday.online/us-msn.m3u8?auth_key=1758325127-c707756894a01a664b7bfffcf6ed3e6c-00000000000000000000000000000000-64f26379a48b24ca4ad5339bd54f0342
+https://o2.sundaytueday.online/us-msn.m3u8?auth_key=1758330411-1e47255144a09261ea6f36698bbd20ac-00000000000000000000000000000000-264f93fa88a532dc5fa8c78cad053d0a
 #EXTINF:-1 tvg-id="CNBC.USA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/2560px-CNBC_logo.svg.png" group-title="FSTV",CNBC
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o2.sundaytueday.online/us-cnbc.m3u8?auth_key=1758325128-c707756894a01a664b7bfffcf6ed3e6c-00000000000000000000000000000000-af3ef2d05652febf3ec9616fe6fac309
+https://o2.sundaytueday.online/us-cnbc.m3u8?auth_key=1758330412-1e47255144a09261ea6f36698bbd20ac-00000000000000000000000000000000-8d7d2d2d8290eaf0e2d424fd88cc8eaa
 #EXTINF:-1 tvg-logo="https://media.info/l/o/1/1539.1690027797.png" group-title="FSTV",Ori22Uktntsport1
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o4.sundaytueday.online/uk-tntsport1.m3u8?auth_key=1758325130-c707756894a01a664b7bfffcf6ed3e6c-00000000000000000000000000000000-759ec64724071ce75ae5aaf8ba546eab
+https://o4.sundaytueday.online/uk-tntsport1.m3u8?auth_key=1758330414-1e47255144a09261ea6f36698bbd20ac-00000000000000000000000000000000-c2ab36b5ea14cc1eccd7ec2973dadd0e
 #EXTINF:-1 tvg-logo="https://media.info/l/o/1/1540.1690027877.png" group-title="FSTV",Ori22Uktntsport2
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o4.sundaytueday.online/uk-tntsport2.m3u8?auth_key=1758325132-c707756894a01a664b7bfffcf6ed3e6c-00000000000000000000000000000000-f47b809e4e95eb2e06314df3c18775aa
+https://o4.sundaytueday.online/uk-tntsport2.m3u8?auth_key=1758330415-1e47255144a09261ea6f36698bbd20ac-00000000000000000000000000000000-0aeb329a64d02e805bfc5506773e1937
 #EXTINF:-1 tvg-logo="https://media.info/l/o/5/5712.1690027954.png" group-title="FSTV",Ori22Uktntsport3
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o4.sundaytueday.online/uk-tntsport3.m3u8?auth_key=1758325134-c707756894a01a664b7bfffcf6ed3e6c-00000000000000000000000000000000-afc0cfd5520cbfcc786cfc08495781d7
+https://o4.sundaytueday.online/uk-tntsport3.m3u8?auth_key=1758330417-1e47255144a09261ea6f36698bbd20ac-00000000000000000000000000000000-83cd49fd92c73f97dad92c8d4002b88e
 #EXTINF:-1 tvg-id="Eurosport.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/da/Eurosport_1_HD_Logo_2015.png" group-title="FSTV",Eurosport 1 UK
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o2.sundaytueday.online/uk-eurosport1.m3u8?auth_key=1758325135-c707756894a01a664b7bfffcf6ed3e6c-00000000000000000000000000000000-9ef8fe6fa9ec8c65e9b6fb10e4f68fd5
+https://o2.sundaytueday.online/uk-eurosport1.m3u8?auth_key=1758330419-1e47255144a09261ea6f36698bbd20ac-00000000000000000000000000000000-bcc8eeb5353e725259fa398a3188bd6d
 #EXTINF:-1 tvg-logo="https://assets.tv24.co/channels/bt-sport-extra-1-l.webp" group-title="FSTV",Ori22Uktntsport5
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o4.sundaytueday.online/uk-tntsport5.m3u8?auth_key=1758325137-c707756894a01a664b7bfffcf6ed3e6c-00000000000000000000000000000000-96f5c0f14f5091990e71fb64037cc1b5
+https://o4.sundaytueday.online/uk-tntsport5.m3u8?auth_key=1758330420-1e47255144a09261ea6f36698bbd20ac-00000000000000000000000000000000-52ed86c949a7818aae81822c099820df
 #EXTINF:-1 tvg-logo="https://media.info/l/o/1/1491.1690027975.png" group-title="FSTV",Ori22Uktntsport4
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o4.sundaytueday.online/uk-tntsport4.m3u8?auth_key=1758325139-c707756894a01a664b7bfffcf6ed3e6c-00000000000000000000000000000000-d79b0fac7a6a6a8544e9912f693104dc
+https://o4.sundaytueday.online/uk-tntsport4.m3u8?auth_key=1758330422-1e47255144a09261ea6f36698bbd20ac-00000000000000000000000000000000-540167c48ca585740f99b360e2487f8e
 #EXTINF:-1 tvg-id="Eurosport.2.es" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2015/11/14120519/Eurosport-2-HD.png" group-title="FSTV",Eurosport 2 UK
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o2.sundaytueday.online/uk-eurosport2.m3u8?auth_key=1758325140-c707756894a01a664b7bfffcf6ed3e6c-00000000000000000000000000000000-059040ece0580d1987fe1fcfedc669d2
+https://o2.sundaytueday.online/uk-eurosport2.m3u8?auth_key=1758330423-1e47255144a09261ea6f36698bbd20ac-00000000000000000000000000000000-be556da540df27f8ebe88df1fa7576d7
 #EXTINF:-1 tvg-id="SkySp.Golf.HD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sky_Sport_Golf_-_Logo_2018.svg/2560px-Sky_Sport_Golf_-_Logo_2018.svg.png" group-title="FSTV",Sky Sport Golf UK
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o2.sundaytueday.online/uk-skysportgolf.m3u8?auth_key=1758325142-c707756894a01a664b7bfffcf6ed3e6c-00000000000000000000000000000000-73b66c89191a1e62a05c31bf690e8e7e
+https://o2.sundaytueday.online/uk-skysportgolf.m3u8?auth_key=1758330425-1e47255144a09261ea6f36698bbd20ac-00000000000000000000000000000000-3e9262c524343c32397af953c95e4966
 #EXTINF:-1 tvg-id="LA.LIGA.za" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/LaLiga_TV_Bar_HD.png" group-title="FSTV",La Liga UK
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o4.sundaytueday.online/uk-laligatv.m3u8?auth_key=1758325144-c707756894a01a664b7bfffcf6ed3e6c-00000000000000000000000000000000-fe516b58fb9bfd977f3a7fc6572558df
+https://o4.sundaytueday.online/uk-laligatv.m3u8?auth_key=1758330426-1e47255144a09261ea6f36698bbd20ac-00000000000000000000000000000000-b16c855052bc5775eb82bdeff66dbeb8
 #EXTINF:-1 tvg-id="SkySp.Tennis.HD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Sky_Sport_Tennis_HD.svg/2560px-Sky_Sport_Tennis_HD.svg.png" group-title="FSTV",Sky Sport Tennis UK
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o4.sundaytueday.online/uk-skysporttenis.m3u8?auth_key=1758325145-c707756894a01a664b7bfffcf6ed3e6c-00000000000000000000000000000000-1eaa9d88136523df9ab63cd0075183b6
+https://o4.sundaytueday.online/uk-skysporttenis.m3u8?auth_key=1758330428-1e47255144a09261ea6f36698bbd20ac-00000000000000000000000000000000-8297ee25bf5408ac04c458eb14ed2088
 #EXTINF:-1 tvg-id="MUTV.HD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png" group-title="FSTV",MUTV UK
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o2.sundaytueday.online/uk-mutv.m3u8?auth_key=1758325147-c707756894a01a664b7bfffcf6ed3e6c-00000000000000000000000000000000-8989fbb058abc21e5089c9b71f40244e
+https://o2.sundaytueday.online/uk-mutv.m3u8?auth_key=1758330430-1e47255144a09261ea6f36698bbd20ac-00000000000000000000000000000000-3719ed11d9470e127f2ff2640bc834a8
 #EXTINF:-1 tvg-logo="https://live-tv.b-cdn.net/icons/sports/image_(5).png" group-title="FSTV",Ori2 Uksv2Sky Sport Plus
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o2.sundaytueday.online/uk-skyplus.m3u8?auth_key=1758325149-c707756894a01a664b7bfffcf6ed3e6c-00000000000000000000000000000000-513428bcc8f0e44029c2ed111fb29082
+https://o2.sundaytueday.online/uk-skyplus.m3u8?auth_key=1758330431-1e47255144a09261ea6f36698bbd20ac-00000000000000000000000000000000-c1918e5c570875a55ea591b1e503ffe9
 #EXTINF:-1 tvg-id="SkySp.Fball.HD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sky_Sport_Football_-_Logo_2020.svg/2560px-Sky_Sport_Football_-_Logo_2020.svg.png" group-title="FSTV",Sky Sport Football
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o4.sundaytueday.online/uk-skysportfootball.m3u8?auth_key=1758325151-c707756894a01a664b7bfffcf6ed3e6c-00000000000000000000000000000000-2b05fb0e0d245942522795b7ba65dcce
+https://o4.sundaytueday.online/uk-skysportfootball.m3u8?auth_key=1758330433-1e47255144a09261ea6f36698bbd20ac-00000000000000000000000000000000-6289399b4ec1ebd4c0c94726e6a939be
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNXw53gnUV1zL1tDoAFLmfHNOtpMBx7goFFg&s" group-title="FSTV",Ori21Ukskysportpremierleague
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o4.sundaytueday.online/uk-skysportpremierleague.m3u8?auth_key=1758325152-c707756894a01a664b7bfffcf6ed3e6c-00000000000000000000000000000000-e53865a0271cd8f0ed7bce9045a30564
+https://o4.sundaytueday.online/uk-skysportpremierleague.m3u8?auth_key=1758330434-1e47255144a09261ea6f36698bbd20ac-00000000000000000000000000000000-47bd63c2c1c325818d6e4a455c8f0fc8
 #EXTINF:-1 tvg-id="SkySp.Mix.HD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Sky_Sport_Mix_Logo_2022.svg/2560px-Sky_Sport_Mix_Logo_2022.svg.png" group-title="FSTV",Sky Sport Mix UK
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o4.sundaytueday.online/uk-skysportmix.m3u8?auth_key=1758325154-c707756894a01a664b7bfffcf6ed3e6c-00000000000000000000000000000000-833cf037712a333f8ce645fbe96d0da9
+https://o4.sundaytueday.online/uk-skysportmix.m3u8?auth_key=1758330436-1e47255144a09261ea6f36698bbd20ac-00000000000000000000000000000000-7f0306cb02f29dde07f611304a2562c6
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Sky-sports-main-event.jpg" group-title="FSTV",Ori21Cdnsv3Ukmainent
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o4.sundaytueday.online/uk-skysportmain.m3u8?auth_key=1758325156-c707756894a01a664b7bfffcf6ed3e6c-00000000000000000000000000000000-fce27421cae9d9179799d8e5b6b52b8e
+https://o4.sundaytueday.online/uk-skysportmain.m3u8?auth_key=1758330437-1e47255144a09261ea6f36698bbd20ac-00000000000000000000000000000000-ad37f957f6532ac41fa86db35af5542d
 #EXTINF:-1 tvg-id="SkySp.Racing.HD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Sky_sports_racing.png" group-title="FSTV",Sky Sport Racing UK
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o2.sundaytueday.online/uk-skysportracing.m3u8?auth_key=1758325157-c707756894a01a664b7bfffcf6ed3e6c-00000000000000000000000000000000-74ed9e1f1f3e2e13655fdebc946bf2ee
+https://o2.sundaytueday.online/uk-skysportracing.m3u8?auth_key=1758330439-1e47255144a09261ea6f36698bbd20ac-00000000000000000000000000000000-8160d0fc0e7e8418d51636db03878ca6
 #EXTINF:-1 tvg-logo="https://s3.eu-west-1.amazonaws.com/entertainmentie/storage/lmstelevision/tv-logos/9ec570fbdc82b613baeaddf1de974395.png" group-title="FSTV",Ori23Ukpremiersport1
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o4.sundaytueday.online/uk-premiersport1.m3u8?auth_key=1758325159-c707756894a01a664b7bfffcf6ed3e6c-00000000000000000000000000000000-6148a580cdfeaed7d509c4da305be77b
+https://o4.sundaytueday.online/uk-premiersport1.m3u8?auth_key=1758330441-1e47255144a09261ea6f36698bbd20ac-00000000000000000000000000000000-b6a4dd872dcc1a9ac0bd59cfb6d1cd59
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBC1z5WtSEusVnMmpXn6bkqH-GLC4UnTvo3Q&s" group-title="FSTV",Ori23Ukpremiersport2
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o4.sundaytueday.online/uk-premiersport2.m3u8?auth_key=1758325161-c707756894a01a664b7bfffcf6ed3e6c-00000000000000000000000000000000-30d78ec99318224f9f07423b6f0862b2
+https://o4.sundaytueday.online/uk-premiersport2.m3u8?auth_key=1758330442-1e47255144a09261ea6f36698bbd20ac-00000000000000000000000000000000-ad82fb0c5dec7fcdbae0d34b386e468c
 #EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="https://live-tv.b-cdn.net/logos/channels/ukskysportf1.png" group-title="FSTV",Sky Sport F1 UK
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o2.sundaytueday.online/uk-skysportf1.m3u8?auth_key=1758325162-c707756894a01a664b7bfffcf6ed3e6c-00000000000000000000000000000000-d3d001a5d92951f00dc5dc74bfbb7db4
+https://o2.sundaytueday.online/uk-skysportf1.m3u8?auth_key=1758330444-1e47255144a09261ea6f36698bbd20ac-00000000000000000000000000000000-739ea9385af8967e7ec698b99c574a37
 #EXTINF:-1 tvg-id="Racing.TV.HD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Racing_TV_logo.png" group-title="FSTV",Racing TV UK
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o4.sundaytueday.online/uk-racingtv.m3u8?auth_key=1758325164-c707756894a01a664b7bfffcf6ed3e6c-00000000000000000000000000000000-e5d81d0d375e655e21766b883ff4f1f9
+https://o4.sundaytueday.online/uk-racingtv.m3u8?auth_key=1758330445-1e47255144a09261ea6f36698bbd20ac-00000000000000000000000000000000-83ecadbe09e07d1b6bd6d355498f456b
 #EXTINF:-1 tvg-id="SkySp.ActionHD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-action-hz-uk.png?raw=true" group-title="FSTV",Sky Sports Action UK
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o2.sundaytueday.online/uk-skysportaction.m3u8?auth_key=1758325166-c707756894a01a664b7bfffcf6ed3e6c-00000000000000000000000000000000-9ac6b1f004c134153e8af83d6eaaccb3
+https://o2.sundaytueday.online/uk-skysportaction.m3u8?auth_key=1758330447-1e47255144a09261ea6f36698bbd20ac-00000000000000000000000000000000-8d2ac9ea89cc3565c5b81774b1ea2935
 #EXTINF:-1 tvg-id="Sky.Sports+.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/Sky-sports-main-arena.jpg" group-title="FSTV",Sky Sport Arena UK
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o3.sundaytueday.online/uk-skysportarena.m3u8?auth_key=1758325168-c707756894a01a664b7bfffcf6ed3e6c-00000000000000000000000000000000-666974ab659597722a0e038dc3658701
+https://o3.sundaytueday.online/uk-skysportarena.m3u8?auth_key=1758330448-1e47255144a09261ea6f36698bbd20ac-00000000000000000000000000000000-3abef5142ab8c887bde9c6015f83f21f
 #EXTINF:-1 tvg-id="SkySpCricket.HD.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHrp6iuQzLwISQa7S4inz3kY6FUzR-10hBGQ&s" group-title="FSTV",Sky Sport Cricket UK
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o2.sundaytueday.online/uk-skysportcricket.m3u8?auth_key=1758325169-c707756894a01a664b7bfffcf6ed3e6c-00000000000000000000000000000000-7be4367773462e9b06ccebc87c646166
+https://o2.sundaytueday.online/uk-skysportcricket.m3u8?auth_key=1758330450-1e47255144a09261ea6f36698bbd20ac-00000000000000000000000000000000-9c32e2f16b451c17c2ee69777a34fdcc
 #EXTINF:-1 tvg-id="SkySp.News.HD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Sky_Sport_News_Logo_2020.png" group-title="FSTV",Sky Sport News UK
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o4.sundaytueday.online/uk-skysportnews.m3u8?auth_key=1758325171-c707756894a01a664b7bfffcf6ed3e6c-00000000000000000000000000000000-c36567e9cbcdd6247346c17612896a5c
+https://o4.sundaytueday.online/uk-skysportnews.m3u8?auth_key=1758330452-1e47255144a09261ea6f36698bbd20ac-00000000000000000000000000000000-418ea0b6c9c1a5c824cb959045f4c7a0
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsVQ1cCp2JyCeuTWBoSi-Te_YD_29p4ZEUJQ&s" group-title="FSTV",Uksky Sport Darts
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o2.sundaytueday.online/uk-skydart.m3u8?auth_key=1758325173-c707756894a01a664b7bfffcf6ed3e6c-00000000000000000000000000000000-1053c39ea5deb88b8bcb970917455783
+https://o2.sundaytueday.online/uk-skydart.m3u8?auth_key=1758330453-1e47255144a09261ea6f36698bbd20ac-00000000000000000000000000000000-fbc3a155fce6762039875c51de0ec9ec
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png" group-title="FSTV",Ori2Usabeinsport Xtra
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o4.sundaytueday.online/us-beinxtra.m3u8?auth_key=1758325174-c707756894a01a664b7bfffcf6ed3e6c-00000000000000000000000000000000-f27e3def0a9640109d15a7aeb2a1d263
+https://o4.sundaytueday.online/us-beinxtra.m3u8?auth_key=1758330455-1e47255144a09261ea6f36698bbd20ac-00000000000000000000000000000000-cd2464f4eab82bfed07dec4930ab8394
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m1eHN0iyOn0rawZCtwzRqk8Tbf_vd58vYuWeL36EDhbLzd=s900-c-k-c0x00ffffff-no-rj" group-title="FSTV",Ori2Usabeinsport Hd
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o4.sundaytueday.online/usa-beinsport.m3u8?auth_key=1758325176-c707756894a01a664b7bfffcf6ed3e6c-00000000000000000000000000000000-d067b9e7a917ff0b33806e003bf69f8c
+https://o4.sundaytueday.online/usa-beinsport.m3u8?auth_key=1758330456-1e47255144a09261ea6f36698bbd20ac-00000000000000000000000000000000-cf95e22286f70a38ba5cc8db1e65b3e8
 #EXTINF:-1 tvg-id="613759" tvg-logo="https://media.info/l/o/6/6595.1491352332.png" group-title="FSTV",BeIN Sports Español
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o4.sundaytueday.online/usa-beinlaliga.m3u8?auth_key=1758325178-c707756894a01a664b7bfffcf6ed3e6c-00000000000000000000000000000000-4682e2c049123edb15e6d2352209065a
+https://o4.sundaytueday.online/usa-beinlaliga.m3u8?auth_key=1758330458-1e47255144a09261ea6f36698bbd20ac-00000000000000000000000000000000-116579751fe7b1c98d976a3932949d7c
 #EXTINF:-1 tvg-id="613759" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/Logo-bein-sport-xtra-espanol-plain.png" group-title="FSTV",BeIN Sports Español Xtra
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o4.sundaytueday.online/us-beinespamolxtra.m3u8?auth_key=1758325179-c707756894a01a664b7bfffcf6ed3e6c-00000000000000000000000000000000-e817a6555bcf3837ee6c9703fe65677c
+https://o4.sundaytueday.online/us-beinespamolxtra.m3u8?auth_key=1758330460-1e47255144a09261ea6f36698bbd20ac-00000000000000000000000000000000-9be3c563992cb414a7fb518d26bcb798
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/1200px-ITV1_logo_%282022%29.svg.png" group-title="FSTV",Ori23Ukitv1
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o2.sundaytueday.online/uk-itv1.m3u8?auth_key=1758325181-c707756894a01a664b7bfffcf6ed3e6c-00000000000000000000000000000000-242eea946e1aef70e185fd5eb8086678
+https://o2.sundaytueday.online/uk-itv1.m3u8?auth_key=1758330461-1e47255144a09261ea6f36698bbd20ac-00000000000000000000000000000000-d987eaec8b3ed98951c858576e862f73
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/ITV2_Logo_2013.svg/2560px-ITV2_Logo_2013.svg.png" group-title="FSTV",Ori23Ukitv2
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o2.sundaytueday.online/uk-itv2.m3u8?auth_key=1758325183-c707756894a01a664b7bfffcf6ed3e6c-00000000000000000000000000000000-3cd17af41299294629c630f58f03095a
+https://o2.sundaytueday.online/uk-itv2.m3u8?auth_key=1758330463-1e47255144a09261ea6f36698bbd20ac-00000000000000000000000000000000-0ec18a1ef152237e84a27e87810841f9
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/ITV3_logo_2022.svg/1024px-ITV3_logo_2022.svg.png" group-title="FSTV",Ori23Ukitv3
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o2.sundaytueday.online/uk-itv3.m3u8?auth_key=1758325185-c707756894a01a664b7bfffcf6ed3e6c-00000000000000000000000000000000-3910556b182a100f8b630bf33104a1ab
+https://o2.sundaytueday.online/uk-itv3.m3u8?auth_key=1758330464-1e47255144a09261ea6f36698bbd20ac-00000000000000000000000000000000-261fae8e3316cb3a90b7d75a63ead7ae
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ITV4_logo_%282022%29.svg/2560px-ITV4_logo_%282022%29.svg.png" group-title="FSTV",Ori23Ukitv4
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o2.sundaytueday.online/uk-itv4.m3u8?auth_key=1758325186-c707756894a01a664b7bfffcf6ed3e6c-00000000000000000000000000000000-287e0046bc2da7867ac727299d56d46e
+https://o2.sundaytueday.online/uk-itv4.m3u8?auth_key=1758330466-1e47255144a09261ea6f36698bbd20ac-00000000000000000000000000000000-407df2cbd4495c7c6de0bba268b62fdc
 #EXTINF:-1 tvg-id="DAZN.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/dazn1-de.png?raw=true" group-title="FSTV",DAZN 1 UK
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o4.sundaytueday.online/uk-dazn.m3u8?auth_key=1758325188-c707756894a01a664b7bfffcf6ed3e6c-00000000000000000000000000000000-f14056d2836f2d5c3a25ec631c17caba
+https://o4.sundaytueday.online/uk-dazn.m3u8?auth_key=1758330467-1e47255144a09261ea6f36698bbd20ac-00000000000000000000000000000000-5585d49d25a1443fa1e61b53f2b4ae03
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/FuboTV_logo.svg" group-title="FSTV",Ori2Usafubosport
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o4.sundaytueday.online/usa-fubosport.m3u8?auth_key=1758325190-c707756894a01a664b7bfffcf6ed3e6c-00000000000000000000000000000000-2ce39ca93153d870aa4a065a45752b9c
+https://o4.sundaytueday.online/usa-fubosport.m3u8?auth_key=1758330469-1e47255144a09261ea6f36698bbd20ac-00000000000000000000000000000000-f4efba3a6ce2ec3da60e361d6aebe1ea
 #EXTINF:-1 tvg-id="LFCTV.HD.uk" tvg-logo="https://ejnorbs.co.uk/wp-content/uploads/2022/01/1E9C338F-017E-4986-A724-AE08D733A0CF.png" group-title="FSTV",LFC TV UK
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o2.sundaytueday.online/uk-lfctv.m3u8?auth_key=1758325191-c707756894a01a664b7bfffcf6ed3e6c-00000000000000000000000000000000-3520919ce1f3e51df8cd10def5b87bfc
+https://o2.sundaytueday.online/uk-lfctv.m3u8?auth_key=1758330471-1e47255144a09261ea6f36698bbd20ac-00000000000000000000000000000000-281d32390faab2858e49a006093e7e94
 #EXTINF:-1 tvg-id="ION..-.Eastern.Feed.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/ION_Television.png" group-title="FSTV",ION USA
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o4.sundaytueday.online/us-ion.m3u8?auth_key=1758325193-c707756894a01a664b7bfffcf6ed3e6c-00000000000000000000000000000000-e4e287241926c5348de91bebf5cf1f13
+https://o4.sundaytueday.online/us-ion.m3u8?auth_key=1758330472-1e47255144a09261ea6f36698bbd20ac-00000000000000000000000000000000-037ac511e836e08d54f76ee11e532597
 #EXTINF:-1 tvg-id="FOX.Soccer.Plus.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Fox_Soccer_Plus_logo.svg/800px-Fox_Soccer_Plus_logo.svg.png" group-title="FSTV",Fox Soccer Plus
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o4.sundaytueday.online/usa-foxsoccerplus.m3u8?auth_key=1758325195-c707756894a01a664b7bfffcf6ed3e6c-00000000000000000000000000000000-727549f9c309ee81e51d10b235555a9c
+https://o4.sundaytueday.online/usa-foxsoccerplus.m3u8?auth_key=1758330474-1e47255144a09261ea6f36698bbd20ac-00000000000000000000000000000000-fd0e9926fac94617ddcc0178d4d90432
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/TyC_Sports_logo.svg" group-title="FSTV",Ori2Usatycsport
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o4.sundaytueday.online/usa-tycsport.m3u8?auth_key=1758325196-c707756894a01a664b7bfffcf6ed3e6c-00000000000000000000000000000000-7c6c5f83f6ac13503e4713a619c245cf
+https://o4.sundaytueday.online/usa-tycsport.m3u8?auth_key=1758330475-1e47255144a09261ea6f36698bbd20ac-00000000000000000000000000000000-e0f1f61cdafdb8e3373072be0236ea52
 #EXTINF:-1 tvg-id="Marquee.Sports.Network.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShBAuTfA1DhscWW7O3ANKzLlFXAcEgz4aQOA&s" group-title="FSTV",Marquee Sports Network
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o2.sundaytueday.online/us-marquee.m3u8?auth_key=1758325198-c707756894a01a664b7bfffcf6ed3e6c-00000000000000000000000000000000-f021b40093f0312b5bb4d776788ef037
+https://o2.sundaytueday.online/us-marquee.m3u8?auth_key=1758330477-1e47255144a09261ea6f36698bbd20ac-00000000000000000000000000000000-fe4c74e5f694e8bb0b0f3969a0f234cc
 #EXTINF:-1 tvg-id="YES.Network.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzVKhyyLjhKAjizJqs8N8jg7mH7bHWVXwUUg&s" group-title="FSTV",YES Network USA
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o4.sundaytueday.online/us-yes.m3u8?auth_key=1758325200-c707756894a01a664b7bfffcf6ed3e6c-00000000000000000000000000000000-9f5a69c93c90ea94f058b7ede9ef213b
+https://o4.sundaytueday.online/us-yes.m3u8?auth_key=1758330478-1e47255144a09261ea6f36698bbd20ac-00000000000000000000000000000000-53d079f53b2441e143c465ef1ff42623
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Big_Ten_Network_Logo.svg" group-title="FSTV",Ori2Usabignetwork
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o4.sundaytueday.online/us-bignetwork.m3u8?auth_key=1758325202-c707756894a01a664b7bfffcf6ed3e6c-00000000000000000000000000000000-41f301820aab1996c8d0979b45e6ad14
+https://o4.sundaytueday.online/us-bignetwork.m3u8?auth_key=1758330480-1e47255144a09261ea6f36698bbd20ac-00000000000000000000000000000000-b1d9e4fd1092c8de5d999182b3483565
 #EXTINF:-1 tvg-id="ABC.(KABC).Los.Angeles,.CA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WABC_TV_New_2021.svg/1200px-WABC_TV_New_2021.svg.png" group-title="FSTV",ABC
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o4.sundaytueday.online/us-abc.m3u8?auth_key=1758325203-c707756894a01a664b7bfffcf6ed3e6c-00000000000000000000000000000000-14cb1a95457e4e1c166ccdfb660ff13c
+https://o4.sundaytueday.online/us-abc.m3u8?auth_key=1758330482-1e47255144a09261ea6f36698bbd20ac-00000000000000000000000000000000-2eced898478cbd27b333439e72e9fe67
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="FSTV",Ori2Usatudn
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o4.sundaytueday.online/usa-tudn.m3u8?auth_key=1758325205-c707756894a01a664b7bfffcf6ed3e6c-00000000000000000000000000000000-a2f314716da0db56ee69c07130dcfe57
+https://o4.sundaytueday.online/usa-tudn.m3u8?auth_key=1758330483-1e47255144a09261ea6f36698bbd20ac-00000000000000000000000000000000-612608527a3da5b3c0d482907ec6951d
 #EXTINF:-1 tvg-id="FOX.(KTTV).Los.Angeles,.CA.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/FOX.png" group-title="FSTV",Fox Los Angeles
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o4.sundaytueday.online/us-foxchanel.m3u8?auth_key=1758325207-c707756894a01a664b7bfffcf6ed3e6c-00000000000000000000000000000000-e8d29801e65bfd1bab14ca77d7ae5cd0
+https://o4.sundaytueday.online/us-foxchanel.m3u8?auth_key=1758330485-1e47255144a09261ea6f36698bbd20ac-00000000000000000000000000000000-6216ca6f66660c14a992020ee1c64376
 #EXTINF:-1 tvg-id="Telemundo.(KVEA).Los.Angeles,.CA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="FSTV",Telemundo
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o4.sundaytueday.online/us-telemundo.m3u8?auth_key=1758325208-c707756894a01a664b7bfffcf6ed3e6c-00000000000000000000000000000000-ba36d59c6854ee390b038c6f25730b2e
+https://o4.sundaytueday.online/us-telemundo.m3u8?auth_key=1758330486-1e47255144a09261ea6f36698bbd20ac-00000000000000000000000000000000-3a012ca863499ef6bf6df0f4af84e427
 #EXTINF:-1 tvg-id="UniMas.(KFTH).Houston,.TX.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/unimas-us.png?raw=true" group-title="FSTV",UniMás
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o4.sundaytueday.online/uk-unimas.m3u8?auth_key=1758325210-c707756894a01a664b7bfffcf6ed3e6c-00000000000000000000000000000000-47b0142ea6bcb719ebcbe227c131fe16
+https://o4.sundaytueday.online/uk-unimas.m3u8?auth_key=1758330488-1e47255144a09261ea6f36698bbd20ac-00000000000000000000000000000000-4b9cd34e7b016ae40c39dc7d3b2eaa5a
 #EXTINF:-1 tvg-id="Willow.Cricket.HDTV.(WILLOWHD).us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyoBxNmfDbilv_ElFg5-noVIBgH7Y1OLTFQQ&s" group-title="FSTV",Willow Cricket HD
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o2.sundaytueday.online/us-willowhd.m3u8?auth_key=1758325212-c707756894a01a664b7bfffcf6ed3e6c-00000000000000000000000000000000-a700558d3bdb5467aecaabd4c1604d18
+https://o2.sundaytueday.online/us-willowhd.m3u8?auth_key=1758330489-1e47255144a09261ea6f36698bbd20ac-00000000000000000000000000000000-397fa57a1faf3775f710000d6a48de9b
 #EXTINF:-1 tvg-id="NHL.Network.USA.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nhl-network-us.png?raw=true" group-title="FSTV",NHL Network
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o2.sundaytueday.online/us-nhlnetwork.m3u8?auth_key=1758325213-c707756894a01a664b7bfffcf6ed3e6c-00000000000000000000000000000000-f1441fd1cbc0f61aabb94b16a5e39e74
+https://o2.sundaytueday.online/us-nhlnetwork.m3u8?auth_key=1758330491-1e47255144a09261ea6f36698bbd20ac-00000000000000000000000000000000-597eb99e073638eca512d735f20ef389
 #EXTINF:-1 tvg-id="Willow.Xtra.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/willow-xtra-us.png?raw=true" group-title="FSTV",Willow Xtra
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o2.sundaytueday.online/us-willowxtra.m3u8?auth_key=1758325215-c707756894a01a664b7bfffcf6ed3e6c-00000000000000000000000000000000-6b87718dd3b07a9873789816f9a32e30
+https://o2.sundaytueday.online/us-willowxtra.m3u8?auth_key=1758330493-1e47255144a09261ea6f36698bbd20ac-00000000000000000000000000000000-006754e85880ff4f32ad4e435eb1dac1
 #EXTINF:-1 tvg-id="NBA.TV.USA.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBATV.png" group-title="FSTV",NBA TV
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o2.sundaytueday.online/us-nbatv.m3u8?auth_key=1758325217-c707756894a01a664b7bfffcf6ed3e6c-00000000000000000000000000000000-6099d989f24179cc08ab3964437e2126
+https://o2.sundaytueday.online/us-nbatv.m3u8?auth_key=1758330494-1e47255144a09261ea6f36698bbd20ac-00000000000000000000000000000000-23cd14a372e7253db4f592c3eb55739b
 #EXTINF:-1 tvg-id="MLB.Network.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="FSTV",MLB Network
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o2.sundaytueday.online/us-mlbnetwork.m3u8?auth_key=1758325219-c707756894a01a664b7bfffcf6ed3e6c-00000000000000000000000000000000-ac3d34f55ba505c7504b760d80cd36b7
+https://o2.sundaytueday.online/us-mlbnetwork.m3u8?auth_key=1758330496-1e47255144a09261ea6f36698bbd20ac-00000000000000000000000000000000-b292d7cd52e6a8d549d702dd21ab03ee
 #EXTINF:-1 tvg-id="CNN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/2048px-CNN_International_logo.svg.png" group-title="FSTV",CNN
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o2.sundaytueday.online/us-cnn.m3u8?auth_key=1758325220-c707756894a01a664b7bfffcf6ed3e6c-00000000000000000000000000000000-6d282aa4bcb0d26672c56ab1b9f4d682
+https://o2.sundaytueday.online/us-cnn.m3u8?auth_key=1758330497-1e47255144a09261ea6f36698bbd20ac-00000000000000000000000000000000-85286e447f6d5c847d9b358a3fb0994c
 #EXTINF:-1 tvg-id="W.Network.Canada.East.(WTN).ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/w-network-ca.png?raw=true" group-title="FSTV",W Network
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o2.sundaytueday.online/us-wnetwork.m3u8?auth_key=1758325222-c707756894a01a664b7bfffcf6ed3e6c-00000000000000000000000000000000-4b90686cb282cd263dba16b1f8728d13
+https://o2.sundaytueday.online/us-wnetwork.m3u8?auth_key=1758330499-1e47255144a09261ea6f36698bbd20ac-00000000000000000000000000000000-e9b85c235b9d7b8ecec65fe894f318a7
 #EXTINF:-1 tvg-id="ACC.Network.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/acc-network-us.png?raw=true" group-title="FSTV",ACC Network
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o2.sundaytueday.online/us-accnetwork.m3u8?auth_key=1758325224-c707756894a01a664b7bfffcf6ed3e6c-00000000000000000000000000000000-c7255314d0e32aac327edfccc212c4a2
+https://o2.sundaytueday.online/us-accnetwork.m3u8?auth_key=1758330501-1e47255144a09261ea6f36698bbd20ac-00000000000000000000000000000000-ed3b435509023fab5f3fad02a43600f4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/2048px-Fox_News_Channel_logo.svg.png" group-title="FSTV",Ori2Usfoxnews
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o2.sundaytueday.online/us-foxnews.m3u8?auth_key=1758325225-c707756894a01a664b7bfffcf6ed3e6c-00000000000000000000000000000000-c3c5ed3b820e472614393b657a8923fa
+https://o2.sundaytueday.online/us-foxnews.m3u8?auth_key=1758330502-1e47255144a09261ea6f36698bbd20ac-00000000000000000000000000000000-08dde2a993625a17486c2856cc8a5a03
 #EXTINF:-1 tvg-id="World.Fishing.Network.(US).(WFN).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/world-fishing-network-us.png?raw=true" group-title="FSTV",World Fishing Network
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o2.sundaytueday.online/us-wfn.m3u8?auth_key=1758325227-c707756894a01a664b7bfffcf6ed3e6c-00000000000000000000000000000000-f3369fce68679357601416ff95421db9
+https://o2.sundaytueday.online/us-wfn.m3u8?auth_key=1758330504-1e47255144a09261ea6f36698bbd20ac-00000000000000000000000000000000-d0575a1a66ee0d9cbeb7c1cafdd99dbe
 #EXTINF:-1 tvg-id="The.Fight.Network.(United.States).(TFN).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fight-network-us.png?raw=true" group-title="FSTV",The Fight Network
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o2.sundaytueday.online/us-fightnetwork.m3u8?auth_key=1758325229-c707756894a01a664b7bfffcf6ed3e6c-00000000000000000000000000000000-1a3678ee399dae036143be535dc58058
+https://o2.sundaytueday.online/us-fightnetwork.m3u8?auth_key=1758330505-1e47255144a09261ea6f36698bbd20ac-00000000000000000000000000000000-c521463868ccf796cb3543961c484434
 #EXTINF:-1 tvg-id="TNT.-.Eastern.Feed.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TNT_%28TV_Channel%29.svg/1200px-TNT_%28TV_Channel%29.svg.png" group-title="FSTV",TNT
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o4.sundaytueday.online/us-tnt.m3u8?auth_key=1758325230-c707756894a01a664b7bfffcf6ed3e6c-00000000000000000000000000000000-80a8b52b14cc404b6f8ae9e08c13a2b3
+https://o4.sundaytueday.online/us-tnt.m3u8?auth_key=1758330507-1e47255144a09261ea6f36698bbd20ac-00000000000000000000000000000000-3550c04f9041c0cc8e131006773188f0
 #EXTINF:-1 tvg-id="truTV.USA.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tru-tv-us.png?raw=true" group-title="FSTV",truTV
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o3.sundaytueday.online/pre52.m3u8?auth_key=1758325232-c707756894a01a664b7bfffcf6ed3e6c-00000000000000000000000000000000-2413962f726d97eab6ade0234c60611b
+https://o3.sundaytueday.online/pre52.m3u8?auth_key=1758330509-1e47255144a09261ea6f36698bbd20ac-00000000000000000000000000000000-6d45282e7d628ae4852d133470af1b7c
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/FanDuel_Sports_Network_logo.svg" group-title="FSTV",Ori2Fanduel Tv
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o3.sundaytueday.online/pre32.m3u8?auth_key=1758325234-c707756894a01a664b7bfffcf6ed3e6c-00000000000000000000000000000000-0b8ea988e3c30ded9a336e702fa19030
+https://o3.sundaytueday.online/pre32.m3u8?auth_key=1758330510-1e47255144a09261ea6f36698bbd20ac-00000000000000000000000000000000-02b54a66c591b3ded74870d35616c3f3
 #EXTINF:-1 tvg-id="AXS.TV.USA.HD.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4c/Axs-tv-button-logo-blue.png" group-title="FSTV",AXS TV
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o3.sundaytueday.online/pre51.m3u8?auth_key=1758325235-c707756894a01a664b7bfffcf6ed3e6c-00000000000000000000000000000000-c94ee3e981e291b3ff8a93fb854d65d9
+https://o3.sundaytueday.online/pre51.m3u8?auth_key=1758330512-1e47255144a09261ea6f36698bbd20ac-00000000000000000000000000000000-3f2a75e242d7023b871897d1de1d9d27
 #EXTINF:-1 tvg-logo="https://archive.org/download/BbcOneWales_201708/bbc%20one%20wales.png" group-title="FSTV",Ori2Ukbbcone
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o4.sundaytueday.online/uk-bbcone.m3u8?auth_key=1758325237-c707756894a01a664b7bfffcf6ed3e6c-00000000000000000000000000000000-1ae9ac7fd57b42418e837e5e5af833e8
+https://o4.sundaytueday.online/uk-bbcone.m3u8?auth_key=1758330514-1e47255144a09261ea6f36698bbd20ac-00000000000000000000000000000000-dd67c9b2288fb7f16fa81989ef42a6e6
 #EXTINF:-1 tvg-id="BBC.Two.HD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/BBC_Two_logo.png" group-title="FSTV",BBC Two UK
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o4.sundaytueday.online/uk-bbctwo.m3u8?auth_key=1758325239-c707756894a01a664b7bfffcf6ed3e6c-00000000000000000000000000000000-8a6baf5cdeb9a4b17ca73d93d62bcde6
+https://o4.sundaytueday.online/uk-bbctwo.m3u8?auth_key=1758330515-1e47255144a09261ea6f36698bbd20ac-00000000000000000000000000000000-63de5cd25e2a72bcd710ce45a709dc56
 #EXTINF:-1 tvg-id="BBC.NEWS.HD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/2560px-BBC_News_2022_%28Alt%29.svg.png" group-title="FSTV",BBC News UK
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o2.sundaytueday.online/uk-bbcnews.m3u8?auth_key=1758325241-c707756894a01a664b7bfffcf6ed3e6c-00000000000000000000000000000000-88db8af41ce81183c09cf0ebfcc648dc
+https://o2.sundaytueday.online/uk-bbcnews.m3u8?auth_key=1758330517-1e47255144a09261ea6f36698bbd20ac-00000000000000000000000000000000-36841cb2a94f71bc2a03c7650539a350
 #EXTINF:-1 tvg-id="Fox.Deportes.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/FOX_Deportes_logo.png" group-title="FSTV",Fox Deportes
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o2.sundaytueday.online/us-foxdeportes.m3u8?auth_key=1758325242-c707756894a01a664b7bfffcf6ed3e6c-00000000000000000000000000000000-5ad785df5c30cc0d63ee469e0b032a61
+https://o2.sundaytueday.online/us-foxdeportes.m3u8?auth_key=1758330518-1e47255144a09261ea6f36698bbd20ac-00000000000000000000000000000000-4a66a283ad197307479bf446639c7633
 #EXTINF:-1 tvg-id="One.Soccer.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/one-soccer-ca.png?raw=true" group-title="FSTV",OneSoccer Canada
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o4.sundaytueday.online/ca-soccerone.m3u8?auth_key=1758325244-c707756894a01a664b7bfffcf6ed3e6c-00000000000000000000000000000000-484e8a54c29f0fd221cd56c7e6a704a7
+https://o4.sundaytueday.online/ca-soccerone.m3u8?auth_key=1758330520-1e47255144a09261ea6f36698bbd20ac-00000000000000000000000000000000-ba055406d9671095c67ede5de6690696
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/DAZN_1_Logo.svg" group-title="FSTV",Ori2De Dazn 1
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o3.sundaytueday.online/de-dazn1.m3u8?auth_key=1758325246-c707756894a01a664b7bfffcf6ed3e6c-00000000000000000000000000000000-ea9cdab2c8791013b13fd453ce874dd8
+https://o3.sundaytueday.online/de-dazn1.m3u8?auth_key=1758330522-1e47255144a09261ea6f36698bbd20ac-00000000000000000000000000000000-d2bd56f0eb6d2ca98439edee875275d1
 #EXTINF:-1 tvg-id="Sky.Sport.Premier.League.de" tvg-logo="https://pbs.twimg.com/profile_images/1605131756310614017/05qwHae-_400x400.jpg" group-title="FSTV",Sky Sport Premier League DE
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o4.sundaytueday.online/de-skypremierleagaue.m3u8?auth_key=1758325247-c707756894a01a664b7bfffcf6ed3e6c-00000000000000000000000000000000-c8c0f29e07f173916c0912dff1b98593
+https://o4.sundaytueday.online/de-skypremierleagaue.m3u8?auth_key=1758330523-1e47255144a09261ea6f36698bbd20ac-00000000000000000000000000000000-8b026f47829301bb7131f2e7ab945813
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/DAZN_2.svg" group-title="FSTV",Ori2De Dazn 2
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o3.sundaytueday.online/de-dazn2.m3u8?auth_key=1758325249-c707756894a01a664b7bfffcf6ed3e6c-00000000000000000000000000000000-506d6a98b85255998c86826ec30b2f97
+https://o3.sundaytueday.online/de-dazn2.m3u8?auth_key=1758330525-1e47255144a09261ea6f36698bbd20ac-00000000000000000000000000000000-66ed87816ebdb7f1601c238f6ae3ad45
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Sky_Sport_Top_Event_Logo_2022.svg/2560px-Sky_Sport_Top_Event_Logo_2022.svg.png" group-title="FSTV",Ori2Deskyde Top Ent
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o4.sundaytueday.online/de-skytopevent.m3u8?auth_key=1758325251-c707756894a01a664b7bfffcf6ed3e6c-00000000000000000000000000000000-5e79c0250301e07b40c85db096162526
+https://o4.sundaytueday.online/de-skytopevent.m3u8?auth_key=1758330526-1e47255144a09261ea6f36698bbd20ac-00000000000000000000000000000000-055a034c9ea3019546cfabdaf4017c89
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Sport-Digital.svg/2560px-Sport-Digital.svg.png" group-title="FSTV",Ori2Desportdigital
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o4.sundaytueday.online/de-sportdigital.m3u8?auth_key=1758325253-c707756894a01a664b7bfffcf6ed3e6c-00000000000000000000000000000000-6b807a948661d13532bb100682baf40a
+https://o4.sundaytueday.online/de-sportdigital.m3u8?auth_key=1758330528-1e47255144a09261ea6f36698bbd20ac-00000000000000000000000000000000-5fe317cc1ddad6d81086ad0031722870
 #EXTINF:-1 tvg-id="Sky.Sport.News.de" tvg-logo="https://cdn.freebiesupply.com/logos/thumbs/2x/sky-sports-news-3-logo.png" group-title="FSTV",Sky Sport News DE
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o4.sundaytueday.online/de-skynews.m3u8?auth_key=1758325254-c707756894a01a664b7bfffcf6ed3e6c-00000000000000000000000000000000-17cbca809b7ae0135b80083e25cc6dd9
+https://o4.sundaytueday.online/de-skynews.m3u8?auth_key=1758330530-1e47255144a09261ea6f36698bbd20ac-00000000000000000000000000000000-15ee4259d8420d62b9b04b792a9e35fe
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-mix-uk.svg" group-title="FSTV",Ori2Deskyde Mix
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o4.sundaytueday.online/de-skymix.m3u8?auth_key=1758325256-c707756894a01a664b7bfffcf6ed3e6c-00000000000000000000000000000000-3e10f308cd98d2fa963d3f0ffd595663
+https://o4.sundaytueday.online/de-skymix.m3u8?auth_key=1758330531-1e47255144a09261ea6f36698bbd20ac-00000000000000000000000000000000-fb500816e46983893fc1b0d965b41228
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png" group-title="FSTV",Ori2Debundesliga1
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o3.sundaytueday.online/de-bundesliga1.m3u8?auth_key=1758325258-c707756894a01a664b7bfffcf6ed3e6c-00000000000000000000000000000000-55533825d062d020bc908ae4955eee58
+https://o3.sundaytueday.online/de-bundesliga1.m3u8?auth_key=1758330533-1e47255144a09261ea6f36698bbd20ac-00000000000000000000000000000000-494c12a6af946c24d3d86f5f772856b5
 #EXTINF:-1 tvg-id="FoxCricket.au" tvg-logo="https://www.sec.gov/Archives/edgar/data/1564708/000156470822000051/image_151a.jpg" group-title="FSTV",Fox Sports 502 AU
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o3.sundaytueday.online/pre31.m3u8?auth_key=1758325259-c707756894a01a664b7bfffcf6ed3e6c-00000000000000000000000000000000-bfa6e95ac784f28e99ddeb2bf0c76831
+https://o3.sundaytueday.online/pre31.m3u8?auth_key=1758330534-1e47255144a09261ea6f36698bbd20ac-00000000000000000000000000000000-952285ece6f12aa5638d6e98bdb81339
 #EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2013/01/discovery-channel-.eps-logo-vector-400x400.png" group-title="FSTV",Ori2Zentdiscory
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o4.sundaytueday.online/ent-discovery.m3u8?auth_key=1758325261-c707756894a01a664b7bfffcf6ed3e6c-00000000000000000000000000000000-35bece2701c4c0d8901f61421ba74b8b
+https://o4.sundaytueday.online/ent-discovery.m3u8?auth_key=1758330536-1e47255144a09261ea6f36698bbd20ac-00000000000000000000000000000000-a9dff39fbe42f7e07f10970161aba4d6
 #EXTINF:-1 tvg-id="HBO.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hbo-us.png?raw=true" group-title="FSTV",HBO
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o4.sundaytueday.online/ent-hbo.m3u8?auth_key=1758325263-c707756894a01a664b7bfffcf6ed3e6c-00000000000000000000000000000000-e3e1d47ef0b29961430a354985a0c753
+https://o4.sundaytueday.online/ent-hbo.m3u8?auth_key=1758330537-1e47255144a09261ea6f36698bbd20ac-00000000000000000000000000000000-c6e6fd6f27f4646bbbf35fc6827c294a
 #EXTINF:-1 tvg-id="Cinemax.-.Eastern.Feed.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="FSTV",Cinemax
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o4.sundaytueday.online/ent-cinemax.m3u8?auth_key=1758325265-c707756894a01a664b7bfffcf6ed3e6c-00000000000000000000000000000000-d1f2dff989293ad531fe6a6a4f68fa6a
+https://o4.sundaytueday.online/ent-cinemax.m3u8?auth_key=1758330539-1e47255144a09261ea6f36698bbd20ac-00000000000000000000000000000000-ce327c4760e26eb41a975e2b26e4b98c
 #EXTINF:-1 tvg-id="TBS.-.East.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/TBS_2020.svg/1200px-TBS_2020.svg.png" group-title="FSTV",TBS
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o2.sundaytueday.online/zzz-cty4.m3u8?auth_key=1758325267-c707756894a01a664b7bfffcf6ed3e6c-00000000000000000000000000000000-cef037c8c25e30aae27a4d093fbc6166
+https://o2.sundaytueday.online/zzz-cty4.m3u8?auth_key=1758330541-1e47255144a09261ea6f36698bbd20ac-00000000000000000000000000000000-eaf3499eac4ffd4500d060c38c019114
 #EXTINF:-1 tvg-id="Gol.TV.USA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/GOLTV.png" group-title="FSTV",GOL TV
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o4.sundaytueday.online/us-goltv.m3u8?auth_key=1758325269-c707756894a01a664b7bfffcf6ed3e6c-00000000000000000000000000000000-f07dfcdb49f530b86927962dc4d2a35a
+https://o4.sundaytueday.online/us-goltv.m3u8?auth_key=1758330542-1e47255144a09261ea6f36698bbd20ac-00000000000000000000000000000000-953cac98dd6e379c177435aa13b68fa5
 #EXTINF:-1 tvg-id="TSN1.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/TSN1.svg/2560px-TSN1.svg.png" group-title="FSTV",TSN 1
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o2.sundaytueday.online/es-tsn1.m3u8?auth_key=1758325270-c707756894a01a664b7bfffcf6ed3e6c-00000000000000000000000000000000-45adf7cd14a47987bc69a58f45eaedf6
+https://o2.sundaytueday.online/es-tsn1.m3u8?auth_key=1758330544-1e47255144a09261ea6f36698bbd20ac-00000000000000000000000000000000-62f72aa3c294ae94b7ea1a17abf7064e
 #EXTINF:-1 tvg-id="TSN2.ca" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sutruq1433379787.png" group-title="FSTV",TSN 2
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o2.sundaytueday.online/es-tsn2.m3u8?auth_key=1758325272-c707756894a01a664b7bfffcf6ed3e6c-00000000000000000000000000000000-afc929af6508f8247f491a51d7118391
+https://o2.sundaytueday.online/es-tsn2.m3u8?auth_key=1758330545-1e47255144a09261ea6f36698bbd20ac-00000000000000000000000000000000-3a6f40d0641fd4ccf61310a2e337878b
 #EXTINF:-1 tvg-id="TSN3.ca" tvg-logo="https://apsiscom.com/images/channels/935.webp" group-title="FSTV",TSN 3
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o2.sundaytueday.online/es-tsn3.m3u8?auth_key=1758325274-c707756894a01a664b7bfffcf6ed3e6c-00000000000000000000000000000000-3dccc48a6820d353385669bf6710ab38
+https://o2.sundaytueday.online/es-tsn3.m3u8?auth_key=1758330547-1e47255144a09261ea6f36698bbd20ac-00000000000000000000000000000000-a88cc31f6c8b5c31b833daaad772218b
 #EXTINF:-1 tvg-id="TSN4.ca" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/yrrvpq1433380019.png" group-title="FSTV",TSN 4
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o2.sundaytueday.online/es-tsn4.m3u8?auth_key=1758325276-c707756894a01a664b7bfffcf6ed3e6c-00000000000000000000000000000000-f1e4de19f1cf8332fb849a239d2cd50d
+https://o2.sundaytueday.online/es-tsn4.m3u8?auth_key=1758330548-1e47255144a09261ea6f36698bbd20ac-00000000000000000000000000000000-33c8783e435c25865d6a36a06cb89356
 #EXTINF:-1 tvg-id="TSN5.ca" tvg-logo="https://product-catalog-storage.s3.ca-central-1.amazonaws.com/channels/logo/TSN_5_HD.png" group-title="FSTV",TSN 5
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o2.sundaytueday.online/es-tsn5.m3u8?auth_key=1758325278-c707756894a01a664b7bfffcf6ed3e6c-00000000000000000000000000000000-ac632eea79f112aa679cc9b15a372680
+https://o2.sundaytueday.online/es-tsn5.m3u8?auth_key=1758330550-1e47255144a09261ea6f36698bbd20ac-00000000000000000000000000000000-c5880e54b4c6a16a721f5dd8932ca6f4
 #EXTINF:-1 tvg-id="SPORT.TV1.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-1-pt.png?raw=true" group-title="FSTV",Sport TV1 Portugal
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o3.sundaytueday.online/pt-sporttv1.m3u8?auth_key=1758325279-c707756894a01a664b7bfffcf6ed3e6c-00000000000000000000000000000000-9e4527416a8720740986df4a44c5f7f9
+https://o3.sundaytueday.online/pt-sporttv1.m3u8?auth_key=1758330551-1e47255144a09261ea6f36698bbd20ac-00000000000000000000000000000000-e1544893c350f1239ac950373ec155da
 #EXTINF:-1 tvg-id="Benfica.TV.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Logo_Benfica_TV.png/1200px-Logo_Benfica_TV.png" group-title="FSTV",Benfica TV
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o3.sundaytueday.online/pt-benfica.m3u8?auth_key=1758325281-c707756894a01a664b7bfffcf6ed3e6c-00000000000000000000000000000000-9b4e08763d6c82f1bb6f12fe6264fc33
+https://o3.sundaytueday.online/pt-benfica.m3u8?auth_key=1758330553-1e47255144a09261ea6f36698bbd20ac-00000000000000000000000000000000-e192195df70058d76bad13a96c8d58e7
 #EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/hbo-2.svg" group-title="FSTV",Ori2Usahbo2
 #EXTVLCOPT:http-origin=https://fstv.space/
 #EXTVLCOPT:http-referrer=https://fstv.space/
 #EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://o4.sundaytueday.online/ent-greatmovie.m3u8?auth_key=1758325283-c707756894a01a664b7bfffcf6ed3e6c-00000000000000000000000000000000-c944c1f0e6bcedf1d2a47e975d8c9e69
+https://o4.sundaytueday.online/ent-greatmovie.m3u8?auth_key=1758330555-1e47255144a09261ea6f36698bbd20ac-00000000000000000000000000000000-ad2f341e595c3392c843b267dda6b7f9
